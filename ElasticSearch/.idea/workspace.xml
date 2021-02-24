@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b5783b-06c8-420d-a11e-8463fb61ddbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven_jar" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1orrGqNYF3VMBWzBA5RWxaxpgVA" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15546875" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="es" />
+      <recent name="es.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringDataElasticSearchTest.testNativeSearchQuery">
+    <configuration name="SpringDataElasticSearchTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-data-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es" />
+      <option name="MAIN_CLASS_NAME" value="es.SpringDataElasticSearchTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataElasticSearchTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-data-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es" />
+      <option name="MAIN_CLASS_NAME" value="es.SpringDataElasticSearchTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataElasticSearchTest.testFindByTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-data-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es" />
+      <option name="MAIN_CLASS_NAME" value="es.SpringDataElasticSearchTest" />
+      <option name="METHOD_NAME" value="testFindByTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataElasticSearchTest.testFindByTitleOrContent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-data-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es" />
+      <option name="MAIN_CLASS_NAME" value="es.SpringDataElasticSearchTest" />
+      <option name="METHOD_NAME" value="testFindByTitleOrContent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataElasticSearchTest.testNativeSearchQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-data-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es" />
+      <option name="MAIN_CLASS_NAME" value="es.SpringDataElasticSearchTest" />
+      <option name="METHOD_NAME" value="testNativeSearchQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDataElasticSearchTest.testNativeSearchQuery" />
+        <item itemvalue="JUnit.SpringDataElasticSearchTest.testFindByTitle" />
+        <item itemvalue="JUnit.SpringDataElasticSearchTest.testFindByTitleOrContent" />
+        <item itemvalue="JUnit.SpringDataElasticSearchTest.findById" />
+        <item itemvalue="JUnit.SpringDataElasticSearchTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b5783b-06c8-420d-a11e-8463fb61ddbe" name="Default Changelist" comment="" />
+      <created>1614055457701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614055457701</updated>
+      <workItem from="1614055460417" duration="154000" />
+      <workItem from="1614055633064" duration="24691000" />
+      <workItem from="1614135813001" duration="12288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="254" key="#Inspections" timestamp="1614099684893">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="254" key="#Inspections/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614099684893" />
+    <state x="831" y="273" key="#Project_Structure" timestamp="1614055543858">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="831" y="273" key="#Project_Structure/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614055543858" />
+    <state x="1320" y="271" key="#com.intellij.ide.util.MemberChooser" timestamp="1614090398335">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1320" y="271" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614090398335" />
+    <state x="1073" y="574" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1614090353518">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1073" y="574" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614090353518" />
+    <state x="972" y="512" width="618" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614137877127">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="512" width="618" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614137877127" />
+    <state x="1226" y="402" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614137848672">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1226" y="402" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614137848672" />
+    <state x="933" y="342" key="FileChooserDialogImpl" timestamp="1614055563725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="933" y="342" key="FileChooserDialogImpl/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614055563725" />
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom" timestamp="1614159152040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614159152040" />
+    <state width="1864" height="353" key="GridCell.Tab.0.center" timestamp="1614159152040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="353" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614159152040" />
+    <state width="1864" height="353" key="GridCell.Tab.0.left" timestamp="1614159152040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="353" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614159152040" />
+    <state width="1864" height="353" key="GridCell.Tab.0.right" timestamp="1614159152040">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="353" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614159152040" />
+    <state width="1864" height="424" key="GridCell.Tab.1.bottom" timestamp="1614100097334">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="424" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614100097334" />
+    <state width="1864" height="424" key="GridCell.Tab.1.center" timestamp="1614100097334">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="424" key="GridCell.Tab.1.center/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614100097334" />
+    <state width="1864" height="424" key="GridCell.Tab.1.left" timestamp="1614100097334">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="424" key="GridCell.Tab.1.left/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614100097334" />
+    <state width="1864" height="424" key="GridCell.Tab.1.right" timestamp="1614100097334">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1864" height="424" key="GridCell.Tab.1.right/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614100097334" />
+    <state x="691" y="168" key="SettingsEditor" timestamp="1614088532174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="691" y="168" key="SettingsEditor/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614088532174" />
+    <state x="956" y="480" key="com.intellij.ide.util.TipDialog" timestamp="1614135814321">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="956" y="480" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614135814321" />
+    <state x="535" y="401" key="new project wizard" timestamp="1614159149804">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="535" y="401" key="new project wizard/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614159149804" />
+    <state x="1138" y="305" width="840" height="1034" key="search.everywhere.popup" timestamp="1614086868125">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1138" y="305" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1614086868125" />
+  </component>
+</project>
